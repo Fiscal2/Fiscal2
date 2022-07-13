@@ -1,7 +1,7 @@
 ## Hi everyone 👋
 
 - ⚡ My name is Zac and I'm currently living in the Metro Detroit Area 
-- 🔭 I’m currently working on developing my skills in Javascript
+- 🔭 I’m currently working on developing my skills in Angular
 - 🌱 I’m currently learning Javascript, HTML5, CSS, and Bootstrap CSS Library. 
 
 ### Languages: 
