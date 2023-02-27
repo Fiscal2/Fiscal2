@@ -1,8 +1,8 @@
 ## Hi everyone 👋
 
 - ⚡ My name is Zac and I'm currently living in the Metro Detroit Area 
-- 🔭 I’m currently working on developing my skills in Angular
-- 🌱 I’m currently learning Javascript, HTML5, CSS, and Bootstrap CSS Library. 
+- 🔭 I’m currently working on developing my skills in C#
+- 🌱 I’m currently learning Javascript, HTML5, CSS, and C#. 
 
 ### Languages: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
