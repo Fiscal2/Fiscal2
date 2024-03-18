@@ -2,7 +2,7 @@
 
 - ⚡ My name is Zac and I'm currently living in the Metro Detroit Area 
 - 🔭 I’m currently working on developing my skills in Python
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently a student at Michigan State University. 
 
 ### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
