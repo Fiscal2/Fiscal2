@@ -27,7 +27,3 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 
-
-### My GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiscal2&theme=algolia&layout=compact&hide_langs_below=1" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Fiscal2&show_icons=true&theme=algolia&count_private=true" /></p> 
