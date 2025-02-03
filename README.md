@@ -1,7 +1,7 @@
 ## Hi everyone 👋
 
 - ⚡ My name is Zac and I'm currently living in the Metro Detroit Area 
-- 🔭 I’m currently working on developing my skills in Python
+- 🔭 I’m currently working on developing my skills in Python and Swift
 - 🌱 I’m currently a student at Michigan State University. 
 
 ### Languages: 
